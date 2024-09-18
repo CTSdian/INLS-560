@@ -1,2 +1,2 @@
 # INLS-560
-560 class files by Dian
+560 class files and assignments files by Dian
