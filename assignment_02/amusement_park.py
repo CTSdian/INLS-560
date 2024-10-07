@@ -8,13 +8,14 @@ if age < 4:
 elif age < 18:
     printfee(25)
 
+#works here
 elif age > 100:
     printfee("0 and you get a free beer!")
 
 elif age > 60:
     printfee(35)
 
-#
+#dose not work here
 #elif age > 100:
 #    printfee("0 and you get a free beer!")
 #
